@@ -77,3 +77,4 @@ SQL – Data cleaning, transformation, and aggregation
 📸 Dashboard
 
 ![Dashboard Screenshot](home.png)
+![Dashboard Screenshot](best_seller.png)
