@@ -34,7 +34,6 @@ SQL – Data cleaning, transformation, and aggregation
 
 - Daily Trend for Total Orders
   Displays order volume patterns across weekdays and weekends.
-
 - Monthly Trend for Total Orders
   Highlights seasonality, with peak demand observed in July and January.
 
@@ -46,13 +45,10 @@ SQL – Data cleaning, transformation, and aggregation
 
 - Sales % by Pizza Category
   Comparison across Classic, Supreme, Chicken, and Veggie pizzas.
-
 - Sales % by Pizza Size
   Customer preference analysis for Large, Medium, Regular, X-Large, and XX-Large sizes.
-
 - Total Pizzas Sold by Category
   Classic pizzas generate the highest sales volume and total orders.
-
 - Pizza Size Contribution
   Large-sized pizzas contribute the maximum share of total sales.
 
